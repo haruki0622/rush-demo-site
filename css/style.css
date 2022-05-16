@@ -89,6 +89,10 @@ img {
   gap: 50px;
 }
 
+.header-link {
+  font-size: 18px;
+}
+
 /* /header */
 
 /* hero */
@@ -435,7 +439,7 @@ img {
   gap: 30px;
 }
 .footer-link {
-  font-size: 22px;
+  font-size: 18px;
 }
 
 .footer-sns-list {
